@@ -1,2 +1,2 @@
 # Machine Learning con Tensorflow
-machine learning con tensorflow
+Pruebas basicas de machine learning con tensorflow
